@@ -42,7 +42,7 @@ EG functionality versus power workstation.  Keywords: sas sql join merge big dat
           **  sas code in clear text               **
 
           *  Proc python      Stop running program  *
-
+  
          *    Task manager  Single click versioning  *
 
         ** Streaming log     ***    Fewer freezes     **
@@ -59,7 +59,7 @@ EG functionality versus power workstation.  Keywords: sas sql join merge big dat
 
         * Magic String *     ==      *  Passthru exce   *
 
-        * download/ftp  *           **                  *
+        * download/ftp  *           **  peek poke addr  *
 
         ** Email interfa **        ** No code wrapper  **
 
